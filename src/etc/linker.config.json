@@ -1,0 +1,33 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_hwcomposer.drm-gbm-cros-x86_64-v2.so.so",
+		    "libdummy_binary_hwcomposer.drm-gbm-cros.so.so",
+		    "libdummy_binary_hwcomposer.drm-minigbm-x86_64-v2.so.so",
+		    "libdummy_binary_hwcomposer.drm-minigbm.so.so",
+		    "libdummy_binary_hwcomposer.drm-x86_64-v2.so.so",
+		    "libdummy_binary_hwcomposer.drm.so.so",
+		    "libdummy_binary_libhwcomposer.drm-gbm-cros-x86_64-v2.so.so",
+		    "libdummy_binary_libhwcomposer.drm-gbm-cros.so.so",
+		    "libdummy_binary_libhwcomposer.drm-minigbm-x86_64-v2.so.so",
+		    "libdummy_binary_libhwcomposer.drm-minigbm.so.so",
+		    "libdummy_binary_libhwcomposer.drm-x86_64-v2.so.so",
+		    "libdummy_binary_libhwcomposer.drm.so.so",
+		    "libdummy_drm_hwcomposer-x86_64-v2.so",
+		    "libdummy_drm_hwcomposer.so"
+	],
+	"requireLibs": [	
+		    "libc++.so",
+		    "libc.so",
+		    "libcutils.so",
+		    "libdl.so",
+		    "libdrm.so",
+		    "libhardware.so",
+		    "libhidlbase.so",
+		    "liblog.so",
+		    "libm.so",
+		    "libsync.so",
+		    "libui.so",
+		    "libutils.so"
+	],
+	"visible": true
+}

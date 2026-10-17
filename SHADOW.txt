@@ -1,6 +1,6 @@
 shadow prebuilt repo: drm_hwcomposer (target)
-  upstream: com.android.drm_hwcomposer.composer?
-  api-level: 34 (branch 34-20261010)
-  blobs: com.android.hardware.graphics.composer.drm_hwcomposer-14000004.apex 
-  dev-src: none (no dev subpackage)
-  date: 2026-10-10
+  upstream: external/drm_hwcomposer
+  api-level: 34 (branch 34)
+  blobs: com.android.hardware.graphics.composer.drm_hwcomposer-14000004.apex com.android.hardware.graphics.composer.drm_hwcomposer.dev-14000004.apex
+  src: extracted payload providing hwcomposer.drm, hwcomposer.drm_minigbm, hwcomposer.drm_gbm_cros
+  date: 2026-10-17
